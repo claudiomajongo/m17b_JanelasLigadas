@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"psi.o.exemplojanelas","l":"JanelaFinal"},{"p":"psi.o.exemplojanelas","l":"JanelaInicial"}];updateSearchResults();
